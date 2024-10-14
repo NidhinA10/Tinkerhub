@@ -1,0 +1,25 @@
+<style>
+            body{color: antiquewhite;
+                background-color: rgb(255, 200, 127);
+            }
+            h1{
+                color: chartreuse;
+                font-style: oblique;
+            }
+            .secondDiv{
+                background-color: rgb(255, 0, 170);
+            }
+            button{
+                margin: "5px";
+                padding:5px 10px;
+                cursor:pointer;
+                border:3px dotted red;
+
+            }
+            button:hover{
+                background-color: black;
+                color: aliceblue;
+            }
+            
+
+        </style>
